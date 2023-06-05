@@ -1,0 +1,4 @@
+name: TrafficFilter
+version: '${project.version}'
+main: me.mio.trafficfilter.TrafficFilter
+api-version: 1.19
